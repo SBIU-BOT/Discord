@@ -1,6 +1,6 @@
 /*
  * Sussy Baka Impostor uwu V1.1.0O discord bot (SBIU V1.1.0O)
- * (C) HtB#1526 2021-2022
+ * (C) HtB#1526 2021-2023
  */
 /*
     Обозначение версий саси баки:
